@@ -1,0 +1,18 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.14.0",
+    "chalk": "^5.6.2",
+    "child_process": "^1.0.2",
+    "fs-extra": "^11.3.3",
+    "lowdb": "^7.0.1",
+    "moment-timezone": "^0.6.0",
+    "node-telegram-bot-api": "^0.67.0",
+    "string-similarity": "^4.0.4",
+    "util": "^0.12.5"
+  }
+}

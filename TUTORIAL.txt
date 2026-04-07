@@ -1,0 +1,131 @@
+RHNX HELPER BOT - TUTORIAL SETUP
+
+Panduan ini menjelaskan cara menjalankan bot RHNX Helper dari awal.
+
+---
+
+1. Install Requirements
+
+---
+
+Pastikan sudah install:
+
+- NodeJS v18 atau lebih baru
+- Git
+- Telegram Account
+
+Cek NodeJS:
+node -v
+
+---
+
+2. Download Project
+
+---
+
+git clone https://github.com/rhnxofficial/telegram_bot
+
+cd telegram_bot
+
+npm install
+
+---
+
+3. Cara Membuat Bot Telegram
+
+---
+
+1. Buka Telegram
+
+2. Cari Bot: @BotFather Di Pencarian 
+
+3. Ketik:
+   /start
+
+4. Buat bot baru:
+   /newbot
+
+5. Masukkan nama bot
+   Contoh:
+   namabot Helper
+
+6. Masukkan username bot (harus ada "bot")
+   Contoh:
+   namabot_helper_bot
+
+7. Setelah itu BotFather akan memberi TOKEN seperti ini:
+
+1234567890:AAEXAMPLE_TOKEN_TELEGRAM
+
+SALIN TOKEN TERSEBUT
+
+---
+
+4. Pasang Token ke Bot
+
+---
+
+Buka file:
+
+settings.js
+
+Lalu isi bagian token:
+
+telegram.token: "TOKEN_KAMU_DI_SINI"
+
+Contoh:
+
+global.telegram =  {
+  token: "1234567890:AAEXAMPLE_TOKEN_TELEGRAM",
+  
+  dll..
+
+---
+
+5. Jalankan Bot
+
+---
+
+npm start
+
+atau
+
+node index.js
+
+Jika berhasil akan muncul:
+
+Bot running...
+Connected to Telegram
+
+---
+
+6. Test Bot
+
+---
+
+Buka Telegram lalu cari username bot kamu
+
+Ketik:
+/start
+
+Bot siap digunakan ✅
+
+---
+
+Jika Error
+
+Pastikan:
+
+- Token benar
+- NodeJS versi 18+
+- Internet stabil
+- Bot sudah di start
+
+---
+
+Support
+
+Jika masih bingung silahkan join group telegram
+atau buka issue di repository.
+
+RHNX Helper v1.0.0

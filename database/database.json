@@ -1,0 +1,69 @@
+{
+  "data": {
+    "owner": {
+      "7123844952": {
+        "number": "7123844952",
+        "since": "18/01/2026 00:57:09"
+      }
+    }
+  },
+  "users": {
+    "7123844952": {
+      "id": "7123844952",
+      "date": "17 Januari 2026",
+      "username": "ehanzdhoanx",
+      "first_name": "Raihan",
+      "last_name": "Fadillah",
+      "is_bot": false,
+      "language_code": "en",
+      "lastSeen": 1768672629895,
+      "totalMessages": 2,
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "lastLevelNotify": 0,
+      "autolevelup": true,
+      "balance": 30,
+      "money": 30,
+      "lastclaim": 0,
+      "serial": "NBPT",
+      "registered": false,
+      "role": "Beginner",
+      "grade": "Newbie",
+      "premium": false,
+      "premiumsince": "",
+      "premiumend": "",
+      "limit": 30,
+      "limitgame": 30,
+      "limitResetTime": null,
+      "afk": -1,
+      "afkReason": "",
+      "sticker": {}
+    }
+  },
+  "chats": {
+    "-1003569922246": {
+      "id": "-1003569922246",
+      "type": "supergroup",
+      "title": "🤖 Ʀԋɴx-Bσƚ ヅ",
+      "username": "",
+      "is_forum": false,
+      "date": "17 Januari 2026",
+      "lastActivity": 1768672629895,
+      "totalMessages": 2
+    }
+  },
+  "others": {},
+  "settings": {
+    "status": 1768655820626,
+    "multi": true,
+    "prefix": "!",
+    "public": true,
+    "autoBio": false,
+    "aiPrivate": false,
+    "setmenu": "thumbnail",
+    "respontype": "auto",
+    "style": "normal",
+    "language": "auto"
+  }
+}
