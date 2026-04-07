@@ -36,12 +36,12 @@ node index.js
 📁 Project Structure
 
 rhnx_helper
- ┣ etc...
  ┣ plugins
  ┣ lib
+ ┣ etc
  ┣ index.js
- ┣ package.json
- ┗ settings.js
+ ┣ settings.js
+ ┗ package.json
 
 💬 Support & Community
 
