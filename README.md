@@ -25,8 +25,8 @@ Initial release dari RHNX Helper Bot.
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/USERNAME/rhnx_helper
-cd rhnx_helper
+git clone https://github.com/rhnxofficial/telegram_bot
+cd telegram_bot
 npm install
 ```
 
