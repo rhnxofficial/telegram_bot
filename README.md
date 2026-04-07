@@ -1,15 +1,19 @@
-RHNX Helper Bot 🤖
+# RHNX Helper Bot 🤖
 
 <p align="center">
   <img src="https://files.catbox.moe/bdluid.jpg" width="320" alt="RHNX Helper">
-</p>RHNX Helper adalah bot Telegram serbaguna yang menyediakan berbagai fitur tools, AI, downloader, dan utilitas lainnya dalam satu bot.
+</p>
 
-🚀 Version v1.0.0
+RHNX Helper adalah bot Telegram serbaguna yang menyediakan berbagai fitur tools, AI, downloader, dan utilitas lainnya dalam satu bot.
+
+## 🚀 Version
+```
+v1.0.0
+```
 
 Initial release dari RHNX Helper Bot.
 
-✨ Features
-
+## ✨ Features
 - 🤖 AI Chat
 - 📥 Downloader
 - 🔎 Search Tools
@@ -19,22 +23,26 @@ Initial release dari RHNX Helper Bot.
 - 📦 Modular Commands
 - 🔌 API Support
 
-📦 Installation
-
+## 📦 Installation
+```bash
 git clone https://github.com/USERNAME/rhnx_helper
 cd rhnx_helper
 npm install
+```
 
-▶️ Run Bot
-
+## ▶️ Run Bot
+```bash
 npm start
+```
 
 atau
 
+```bash
 node index.js
+```
 
-📁 Project Structure
-
+## 📁 Project Structure
+```
 rhnx_helper
  ┣ plugins
  ┣ lib
@@ -42,21 +50,21 @@ rhnx_helper
  ┣ index.js
  ┣ settings.js
  ┗ package.json
+```
 
-💬 Support & Community
+## 💬 Support & Community
 
 Jika ada pertanyaan, bug, atau request fitur silahkan join:
 
-👥 Group Telegram
+👥 Group Telegram  
 https://t.me/your_group
 
-📢 Channel Telegram
+📢 Channel Telegram  
 https://t.me/your_channel
 
 Atau buat issue di repository ini.
 
-⭐ Notes
-
+## ⭐ Notes
 Project ini masih dalam tahap pengembangan, fitur akan terus ditambahkan pada update berikutnya.
 
 ---
