@@ -30,7 +30,7 @@ cd rhnx_helper
 npm install
 ```
 
-## ▶️ Run Bot
+## Run Bot
 ```bash
 npm start
 ```
@@ -41,7 +41,7 @@ atau
 node index.js
 ```
 
-## 📁 Project Structure
+## Project Structure
 ```
 rhnx_helper
  ┣ plugins
@@ -57,10 +57,10 @@ rhnx_helper
 Jika ada pertanyaan, bug, atau request fitur silahkan join:
 
 👥 Group Telegram  
-https://t.me/your_group
+https://t.me/+Acgh5uefe4UzOWU1
 
 📢 Channel Telegram  
-https://t.me/your_channel
+https://t.me/your_channelhttps://t.me/rhnxofficial
 
 Atau buat issue di repository ini.
 
