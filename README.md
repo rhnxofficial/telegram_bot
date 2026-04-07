@@ -60,7 +60,7 @@ Jika ada pertanyaan, bug, atau request fitur silahkan join:
 https://t.me/+Acgh5uefe4UzOWU1
 
 📢 Channel Telegram  
-https://t.me/your_channelhttps://t.me/rhnxofficial
+https://t.me/rhnxofficial
 
 Atau buat issue di repository ini.
 
