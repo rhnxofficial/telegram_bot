@@ -4,9 +4,7 @@ RHNX Helper Bot 🤖
   <img src="https://files.catbox.moe/bdluid.jpg" width="320" alt="RHNX Helper">
 </p>RHNX Helper adalah bot Telegram serbaguna yang menyediakan berbagai fitur tools, AI, downloader, dan utilitas lainnya dalam satu bot.
 
-🚀 Version
-
-v1.0.0
+🚀 Version v1.0.0
 
 Initial release dari RHNX Helper Bot.
 
